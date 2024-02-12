@@ -1,0 +1,2 @@
+In this project I make drop down list of all the countries with their states and their cities.
+I have used api call to fetch the countries and their states and cities api and java script to make this project.

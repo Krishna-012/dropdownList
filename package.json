@@ -1,0 +1,23 @@
+{
+  "name": "dropdown",
+  "version": "1.0.0",
+  "description": "drodown list of country state and their cities",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel byuild index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Krishna-012/dropdownList.git).git"
+  },
+  "author": "Krishana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishna-012/dropdownList.git)/issues"
+  },
+  "homepage": "https://github.com/Krishna-012/dropdownList.git)#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
